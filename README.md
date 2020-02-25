@@ -1,4 +1,4 @@
-# Implement-A-Search-Algorithm
+# Implement-A-Star-Search-Algorithm
 
 The purpose of this program is to use A* informed search algorithm in sorting unordered pancakes. A messy cook has a disordered stack of 10 differently sized pancakes [size from 1 to 10] and a spatula that can be inserted at any point in the stack and used to flip all pancakes above it. The goal is for the cook to have them in the “correct” order for the customer, that is, the large on the bottom up to the smallest on top ([10, 9, 8, 7, 6, 5, 4, 3, 2, 1]).
 
